@@ -1,0 +1,4 @@
+C:\Users\Tim\source\repos\NodejsWebApp1\NodejsWebApp1\obj\Debug\NodejsWebApp1.njsproj.CoreCompileInputs.cache
+C:\Users\Tim\source\repos\NodejsWebApp1\NodejsWebApp1\bin\Microsoft.NodejsTools.WebRole.dll
+D:\BrowserGame\VS\Coher3nts VSIX\Coher3nts Extension\Coher3nts Extension\ProjectTemplates\Coher3nts-template\obj\Debug\NodejsWebApp1.njsprojAssemblyReference.cache
+D:\BrowserGame\VS\Coher3nts VSIX\Coher3nts Extension\Coher3nts Extension\ProjectTemplates\Coher3nts-template\obj\Debug\NodejsWebApp1.njsproj.CoreCompileInputs.cache
